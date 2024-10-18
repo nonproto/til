@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://crafty-builder-6996.ck.page/e169c61186).
 
-_1470 TILs and counting..._
+_1472 TILs and counting..._
 
 ---
 
@@ -1386,6 +1386,7 @@ _1470 TILs and counting..._
 - [Command Line Length Limitations](unix/command-line-length-limitations.md)
 - [Compare Two Variables In A Bash Script](unix/compare-two-variables-in-a-bash-script.md)
 - [Configure cd To Behave Like pushd In Zsh](unix/configure-cd-to-behave-like-pushd-in-zsh.md)
+- [Convert JPEG To PNG With ffmpeg](unix/convert-jpeg-to-png-with-ffmpeg.md)
 - [Convert SVG To Favicon](unix/convert-svg-to-favicon.md)
 - [Copying File Contents To System Paste Buffer](unix/copying-file-contents-to-system-paste-buffer.md)
 - [Copying Nested Directories With Ditto](unix/copying-nested-directories-with-ditto.md)
@@ -1702,6 +1703,7 @@ _1470 TILs and counting..._
 - [Add Subtitles To Existing Mux Video Asset](workflow/add-subtitles-to-existing-mux-video-asset.md)
 - [Access 1Password Credential From CLI](workflow/access-1password-credential-from-cli.md)
 - [Change Window Name In iTerm](workflow/change-window-name-in-iterm.md)
+- [Configure Email Redirect With Cloudflare](workflow/configure-email-redirect-with-cloudflare.md)
 - [Convert An ePub Document To PDF On Mac](workflow/convert-an-epub-document-to-pdf-on-mac.md)
 - [Create A Local Sanity Dataset Backup](workflow/create-a-local-sanity-dataset-backup.md)
 - [Create A Public URL For A Local Server](workflow/create-a-public-url-for-a-local-server.md)
